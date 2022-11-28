@@ -4,7 +4,7 @@
 
 * 本程序使用PySide2进行界面编写，Python版本为3.7。
 * 电脑需要提前配置好adb环境。
-* 下载mian.exe双击运行即可。如需源码运行请看下面的步骤。
+* ~~下载mian.exe双击运行即可。~~如需源码运行请看下面的步骤。
   * 安装好python环境后，使用`pip install PySide2`命令安装pyside2模块；
   * 在main.py所在目录下使用命令行输入`python main.py`即可运行。
 
